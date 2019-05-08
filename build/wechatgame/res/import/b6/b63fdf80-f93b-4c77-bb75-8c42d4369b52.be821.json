@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"newbieProtectTplt","text":"id,round,dangerDetectDistance,aiSpeed,aiType,fanCnt,range,durTime\r\nnumber,number,number,number,number,number,number,number\r\nID,round,dangerDetectDistance,speed,aiType,fanCnt,range,durTime\r\n1,1,200,345,3,2,900,15\r\n2,2,1500,360,1,0,0,0\r\n3,3,200,345,3,2,900,15\r\n4,4,1500,360,1,0,0,0\r\n"}

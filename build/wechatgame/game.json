@@ -1,0 +1,30 @@
+{
+    "deviceOrientation": "portrait", 
+            "navigateToMiniProgramAppIdList": [
+                    "wx28e5c5f7766c6d59",
+                    "wx2d490c3492bd5d0f",
+                    "wx34ff123eae6af1d4",
+                    "wxc2db54436fb7257a",
+                    "wxff0c7ad894fce9f2",
+                    "wx90e2ef15223f5548",
+                    "wxee1a8cd162d00943",
+                    "wxf6d89dfd693f4128"
+                ],
+    "openDataContext": "subClient",
+    "networkTimeout": {
+        "request": 5000,
+        "connectSocket": 5000,
+        "uploadFile": 5000,
+        "downloadFile": 5000
+    },
+    "subpackages": [
+        {
+            "name": "core",
+            "root": "subpackages/core/"
+        },
+        {
+            "name": "main",
+            "root": "subpackages/main/"
+        }
+    ]
+}

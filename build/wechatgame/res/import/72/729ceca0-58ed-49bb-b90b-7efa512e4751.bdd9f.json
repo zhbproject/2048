@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"dailyLogin","text":"id,显示,数量,等价金币数量,类型(999 神秘大礼包 1金币 2皮肤 3速度升级 4冲刺升级),奖励ID(皮肤填写皮肤ID)\r\nnumber,string,number,number,number,number\r\nID,show,num,exchangeGold,type,prizeId\r\n0,龙战士绝版皮肤,1,2000,2,13\r\n1,金币x500,500,500,1,0\r\n2,皮肤 小红,1,800,2,2\r\n3,金币x1000,1000,1000,1,0\r\n4,金币x1300,1300,1300,1,0\r\n5,冲刺升1级,1,1500,4,0\r\n6,金币x1800,1800,1800,1,0"}

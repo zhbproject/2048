@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"prize","text":"id,type(1金币 2皮肤 3速度升级 4冲刺升级),数量(金币数量由公式确定),分享倍率,名字,显示(金币数量由公式确定),权重(100)\r\nnumber,number,number,number,string,string,number\r\nID,type,num,shareRate,name,show,weight\r\n1,1,300,2,300金币,300金币,40\r\n2,3,1,2,速度升级,速度升级,10\r\n3,1,500,2,500金币,500金币,30\r\n4,2,1,2,皮肤,皮肤,10\r\n5,1,800,2,800金币,800金币,30\r\n6,4,1,2,冲刺升级,冲刺升级,10"}
